@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @harshrivastava 😎, Chess, Sudoku, Cricket. 
-- 👀 I’m interested in Boxing🥊
+- 👋 Hi, I’m @harshrivastava 😎
+- 👀 I’m interested in Boxing🥊, Chess, Cricket, Sudoku. 
 - 🌱 I’m currently learning C++ DSA 😶‍🌫️
 - 💞️ I’m looking to collaborate on coding programs
 - 📫 How to reach me: harshgrowthimpex@gmail.com
