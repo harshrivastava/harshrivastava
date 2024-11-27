@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshrivastava 😎
+- 👋 Hi, I’m @harshrivastava 😎, Chess, Sudoku, Cricket. 
 - 👀 I’m interested in Boxing🥊
 - 🌱 I’m currently learning C++ DSA 😶‍🌫️
 - 💞️ I’m looking to collaborate on coding programs
