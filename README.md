@@ -20,11 +20,11 @@
 <br><h2>🧠 Techy Me</h2>
 <br>- 👨‍💻 I'm a Computer Science major who’s passionate about technology and development 
 <br>- 💪 Practicing Vibe Coding for my creative thoughts.
-<br>- 🌱 Currently learning the **basics of Web Development** (HTML, CSS, JavaScript)  
-<br>- 💻 Comfortable with **C++** and exploring how code interacts with logic & memory  
-<br>- 🛡️ Took a first step into **pre-cybersecurity** learning — found it fascinating!  
-<br>- 🔭 Looking forward to exploring **App Development** (Flutter / React Native), **AI/ML**, and **full-stack development** in the near future  
-<br>- 🧠 I believe in *building slowly, but building right*
+<br>- 🌱 Currently learning the basics of Web Development (HTML, CSS, JavaScript)  
+<br>- 💻 Comfortable with C++ and exploring how code interacts with logic & memory  
+<br>- 🛡️ Took a first step into pre-cybersecurity learning — found it fascinating!  
+<br>- 🔭 Looking forward to exploring App Development (Flutter / React Native), AI/ML, and full-stack development in the near future  
+<br>- 🧠 I believe in building slowly, but building right
 <br>
 <br>
 <hr>
