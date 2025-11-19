@@ -20,7 +20,7 @@
 <br><h2>🧠 Techy Me</h2>
 <br>- 👨‍💻 I'm a Computer Science major who’s passionate about technology and development 
 <br>- 💪 Practicing Vibe Coding for my creative thoughts.
-<br>- 🌱 Currently learning the basics of Web Development (HTML, CSS, JavaScript)  
+<br>- 🌱 Currently learning the concepts of Data Structure and Algorithm
 <br>- 💻 Comfortable with C++ and exploring how code interacts with logic & memory  
 <br>- 🛡️ Took a first step into pre-cybersecurity learning — found it fascinating!  
 <br>- 🔭 Looking forward to exploring App Development (Flutter / React Native), AI/ML, and full-stack development in the near future  
@@ -31,6 +31,6 @@
 <br><h2>🧰 Tech I'm Familiar With</h2>
 <br>
 <br>
-<br>Languages: [ C++, HTML, CSS ]
+<br>Languages: [ C++, Python, Java, Javascript ]
 <br>Tools: [ VS Code, AI Tools, Git, GitHub, Postman, Notion ]
-<br>Currently Learning: [ JavaScript, Web Dev Concepts, Cyber Basics ]
+<br>Currently Learning: [ DSA ]
