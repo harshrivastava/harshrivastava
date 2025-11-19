@@ -37,3 +37,8 @@
 <br>Languages: [ C++, Python, Java, Javascript ]
 <br>Tools: [ VS Code, AI Tools, Git, GitHub, Postman, Notion ]
 <br>Currently Learning: [ DSA ]
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshrivastava/webdev/main/pic1.gif?token=GHSAT0AAAAAADPRIO443QKP7JW5CG7NVAAG2I6FGRQ" alt="banner"/>
+</p>
