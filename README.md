@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshrivastava/webdev/main/pic1.gif?token=GHSAT0AAAAAADPRIO443QKP7JW5CG7NVAAG2I6FGRQ" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/harshrivastava/webdev/main/pic2.gif?token=GHSAT0AAAAAADPRIO45DVYKCRUSD4JUHABG2I6FHYQ" alt="banner"/>
 </p>
 <h1 align="center">Hey 👋, I'm Harsh Shrivastava</h1>
 <h3 align="center">🎓 CS Major | Tech Enthusiast</h3>
