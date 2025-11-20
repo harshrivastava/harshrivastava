@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshrivastava/webdev/main/pic2.gif?token=GHSAT0AAAAAADPRIO45DVYKCRUSD4JUHABG2I6FHYQ" alt="banner"/>
+  <img src="pic1.gif" alt="banner" style=height:350px;width:1500px;/>
 </p>
 <h1 align="center">Hey 👋, I'm Harsh Shrivastava</h1>
 <h3 align="center">🎓 CS Major | Tech Enthusiast</h3>
@@ -11,13 +11,14 @@
 <hr>
 
 <br><h2>🧠 About Me</h2>
-<br> - 👋 Hi, I’m @harshrivastava 😎
+<div><br> - 👋 Hi, I’m @harshrivastava 😎 
 <br> - 👀 I’m interested in Boxing🥊, Chess, Cricket, Sudoku. 
 <br> - 💞️ I’m looking to collaborate on coding programs
 <br> - 📫 How to reach me: harshgrowthimpex@gmail.com
 <br> - 😄 Pronouns: he/him ♂️
 <br> - ⚡ Fun fact: I am SpiderMan🕸️
 <br> 
+</div>
 <br> 
 <hr>
 <br><h2>🧠 Techy Me</h2>
@@ -33,12 +34,13 @@
 <hr>
 <br><h2>🧰 Tech I'm Familiar With</h2>
 <br>
-<br>
 <br>Languages: [ C++, Python, Java, Javascript ]
 <br>Tools: [ VS Code, AI Tools, Git, GitHub, Postman, Notion ]
 <br>Currently Learning: [ DSA ]
-
+<br>
+<br>
+<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshrivastava/webdev/main/pic1.gif?token=GHSAT0AAAAAADPRIO443QKP7JW5CG7NVAAG2I6FGRQ" alt="banner"/>
+  <img src="pic2.gif" alt="banner" style=height:350px;width:2000px;/>
 </p>
